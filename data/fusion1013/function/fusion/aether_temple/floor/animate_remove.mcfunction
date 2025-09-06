@@ -13,3 +13,4 @@ execute if score floor_timer aether_temple matches 4 as @e[type=block_display,ta
 
 scoreboard players add floor_timer aether_temple 1
 execute if score floor_timer aether_temple matches ..10 run schedule function fusion1013:fusion/aether_temple/floor/animate_remove 1
+execute unless score floor_timer aether_temple matches ..10 run scoreboard players set floor_timer aether_temple 0
