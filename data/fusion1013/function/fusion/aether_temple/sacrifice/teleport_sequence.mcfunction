@@ -16,10 +16,16 @@
 
 execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] run effect give @s levitation 5 0 true
 
+execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] run playsound thegreatwork:music.eternal_halls master @s
+
 execute if score teleport_timer aether_temple matches 90 as @a[tag=in_aether_temple] at @s run summon lightning_bolt ^ ^0.5 ^0.5
 execute if score teleport_timer aether_temple matches 90 as @a[tag=in_aether_temple] at @s positioned ~ ~-61 ~ run summon lightning_bolt ^ ^0.5 ^0.5
 
 execute if score teleport_timer aether_temple matches 95 as @a[tag=in_aether_temple] at @s run tp @s ~ ~-61 ~
+
+
+execute as @a[tag=in_aether_temple] at @s run particle enchant ~ ~ ~ 1 1 1 0 1
+execute as @a[tag=in_aether_temple] at @s run particle enchant ~ ~-61 ~ 1 1 1 0 1
 
 
 scoreboard players add teleport_timer aether_temple 1
