@@ -6,3 +6,6 @@
 ##
 
 function fusion1013:fusion/aether_temple/reset
+function fusion1013:fusion/material_pit/reset
+function fusion1013:fusion/item_sacrifice/reset
+function fusion1013:fusion/desert_temple/reset
