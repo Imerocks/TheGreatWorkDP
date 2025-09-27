@@ -15,6 +15,8 @@
 
 
 execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] run effect give @s levitation 5 0 true
+execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] run playsound thegreatwork:sfx.ominous_woosh.1 master @s
+execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] run playsound thegreatwork:sfx.ominous_woosh.2 master @s
 
 execute if score teleport_timer aether_temple matches 1 as @a[tag=in_aether_temple] at @s run playsound thegreatwork:music.eternal_halls master @s
 
