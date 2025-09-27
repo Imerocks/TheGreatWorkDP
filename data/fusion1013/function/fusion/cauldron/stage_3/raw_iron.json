@@ -1,0 +1,644 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/raw_iron"
+    },
+
+    
+    "overrides" : [ {
+        "predicate" : {
+          "custom_model_data" : 10000
+        },
+        "model" : "cobalt/block/cauldron_north-east_10000_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10001
+        },
+        "model" : "cobalt/block/cauldron_north-east_10001_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10002
+        },
+        "model" : "cobalt/block/cauldron_north-east_10002_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10010
+        },
+        "model" : "cobalt/block/cauldron_north-east_10010_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10011
+        },
+        "model" : "cobalt/block/cauldron_north-east_10011_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10012
+        },
+        "model" : "cobalt/block/cauldron_north-east_10012_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10013
+        },
+        "model" : "cobalt/block/cauldron_north-east_10013_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10014
+        },
+        "model" : "cobalt/block/cauldron_north-east_10014_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10022
+        },
+        "model" : "cobalt/block/cauldron_north-east_10022_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10023
+        },
+        "model" : "cobalt/block/cauldron_north-east_10023_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10024
+        },
+        "model" : "cobalt/block/cauldron_north-east_10024_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10025
+        },
+        "model" : "cobalt/block/cauldron_north-east_10025_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10034
+        },
+        "model" : "cobalt/block/cauldron_north-east_10034_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10035
+        },
+        "model" : "cobalt/block/cauldron_north-east_10035_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10036
+        },
+        "model" : "cobalt/block/cauldron_north-east_10036_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10037
+        },
+        "model" : "cobalt/block/cauldron_north-east_10037_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10046
+        },
+        "model" : "cobalt/block/cauldron_north-east_10046_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10055
+        },
+        "model" : "cobalt/block/cauldron_north-east_10055_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10056
+        },
+        "model" : "cobalt/block/cauldron_north-east_10056_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10066
+        },
+        "model" : "cobalt/block/cauldron_north-east_10066_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10075
+        },
+        "model" : "cobalt/block/cauldron_north-east_10075_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10076
+        },
+        "model" : "cobalt/block/cauldron_north-east_10076_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10100
+        },
+        "model" : "cobalt/block/cauldron_north-east_10100_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10101
+        },
+        "model" : "cobalt/block/cauldron_north-east_10101_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10102
+        },
+        "model" : "cobalt/block/cauldron_north-east_10102_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10111
+        },
+        "model" : "cobalt/block/cauldron_north-east_10111_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10112
+        },
+        "model" : "cobalt/block/cauldron_north-east_10112_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10113
+        },
+        "model" : "cobalt/block/cauldron_north-east_10113_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10114
+        },
+        "model" : "cobalt/block/cauldron_north-east_10114_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10121
+        },
+        "model" : "cobalt/block/cauldron_north-east_10121_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10124
+        },
+        "model" : "cobalt/block/cauldron_north-east_10124_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10125
+        },
+        "model" : "cobalt/block/cauldron_north-east_10125_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10135
+        },
+        "model" : "cobalt/block/cauldron_north-east_10135_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10136
+        },
+        "model" : "cobalt/block/cauldron_north-east_10136_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10137
+        },
+        "model" : "cobalt/block/cauldron_north-east_10137_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10145
+        },
+        "model" : "cobalt/block/cauldron_north-east_10145_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10146
+        },
+        "model" : "cobalt/block/cauldron_north-east_10146_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10155
+        },
+        "model" : "cobalt/block/cauldron_north-east_10155_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10156
+        },
+        "model" : "cobalt/block/cauldron_north-east_10156_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10165
+        },
+        "model" : "cobalt/block/cauldron_north-east_10165_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10166
+        },
+        "model" : "cobalt/block/cauldron_north-east_10166_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10175
+        },
+        "model" : "cobalt/block/cauldron_north-east_10175_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10176
+        },
+        "model" : "cobalt/block/cauldron_north-east_10176_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10200
+        },
+        "model" : "cobalt/block/cauldron_north-east_10200_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10201
+        },
+        "model" : "cobalt/block/cauldron_north-east_10201_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10202
+        },
+        "model" : "cobalt/block/cauldron_north-east_10202_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10212
+        },
+        "model" : "cobalt/block/cauldron_north-east_10212_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10213
+        },
+        "model" : "cobalt/block/cauldron_north-east_10213_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10214
+        },
+        "model" : "cobalt/block/cauldron_north-east_10214_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10224
+        },
+        "model" : "cobalt/block/cauldron_north-east_10224_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10225
+        },
+        "model" : "cobalt/block/cauldron_north-east_10225_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10226
+        },
+        "model" : "cobalt/block/cauldron_north-east_10226_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10227
+        },
+        "model" : "cobalt/block/cauldron_north-east_10227_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10235
+        },
+        "model" : "cobalt/block/cauldron_north-east_10235_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10236
+        },
+        "model" : "cobalt/block/cauldron_north-east_10236_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10237
+        },
+        "model" : "cobalt/block/cauldron_north-east_10237_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10300
+        },
+        "model" : "cobalt/block/cauldron_north-east_10300_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10301
+        },
+        "model" : "cobalt/block/cauldron_north-east_10301_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10302
+        },
+        "model" : "cobalt/block/cauldron_north-east_10302_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10311
+        },
+        "model" : "cobalt/block/cauldron_north-east_10311_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10312
+        },
+        "model" : "cobalt/block/cauldron_north-east_10312_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10313
+        },
+        "model" : "cobalt/block/cauldron_north-east_10313_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10314
+        },
+        "model" : "cobalt/block/cauldron_north-east_10314_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10315
+        },
+        "model" : "cobalt/block/cauldron_north-east_10315_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10316
+        },
+        "model" : "cobalt/block/cauldron_north-east_10316_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10317
+        },
+        "model" : "cobalt/block/cauldron_north-east_10317_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10321
+        },
+        "model" : "cobalt/block/cauldron_north-east_10321_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10324
+        },
+        "model" : "cobalt/block/cauldron_north-east_10324_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10325
+        },
+        "model" : "cobalt/block/cauldron_north-east_10325_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10326
+        },
+        "model" : "cobalt/block/cauldron_north-east_10326_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10327
+        },
+        "model" : "cobalt/block/cauldron_north-east_10327_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10400
+        },
+        "model" : "cobalt/block/cauldron_north-east_10400_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10401
+        },
+        "model" : "cobalt/block/cauldron_north-east_10401_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10402
+        },
+        "model" : "cobalt/block/cauldron_north-east_10402_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10403
+        },
+        "model" : "cobalt/block/cauldron_north-east_10403_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10404
+        },
+        "model" : "cobalt/block/cauldron_north-east_10404_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10405
+        },
+        "model" : "cobalt/block/cauldron_north-east_10405_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10406
+        },
+        "model" : "cobalt/block/cauldron_north-east_10406_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10407
+        },
+        "model" : "cobalt/block/cauldron_north-east_10407_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10412
+        },
+        "model" : "cobalt/block/cauldron_north-east_10412_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10413
+        },
+        "model" : "cobalt/block/cauldron_north-east_10413_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10414
+        },
+        "model" : "cobalt/block/cauldron_north-east_10414_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10415
+        },
+        "model" : "cobalt/block/cauldron_north-east_10415_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10416
+        },
+        "model" : "cobalt/block/cauldron_north-east_10416_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10417
+        },
+        "model" : "cobalt/block/cauldron_north-east_10417_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10427
+        },
+        "model" : "cobalt/block/cauldron_north-east_10427_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10500
+        },
+        "model" : "cobalt/block/cauldron_north-east_10500_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10501
+        },
+        "model" : "cobalt/block/cauldron_north-east_10501_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10502
+        },
+        "model" : "cobalt/block/cauldron_north-east_10502_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10503
+        },
+        "model" : "cobalt/block/cauldron_north-east_10503_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10504
+        },
+        "model" : "cobalt/block/cauldron_north-east_10504_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10505
+        },
+        "model" : "cobalt/block/cauldron_north-east_10505_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10506
+        },
+        "model" : "cobalt/block/cauldron_north-east_10506_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10507
+        },
+        "model" : "cobalt/block/cauldron_north-east_10507_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10511
+        },
+        "model" : "cobalt/block/cauldron_north-east_10511_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10513
+        },
+        "model" : "cobalt/block/cauldron_north-east_10513_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10514
+        },
+        "model" : "cobalt/block/cauldron_north-east_10514_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10516
+        },
+        "model" : "cobalt/block/cauldron_north-east_10516_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10517
+        },
+        "model" : "cobalt/block/cauldron_north-east_10517_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10521
+        },
+        "model" : "cobalt/block/cauldron_north-east_10521_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10523
+        },
+        "model" : "cobalt/block/cauldron_north-east_10523_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10524
+        },
+        "model" : "cobalt/block/cauldron_north-east_10524_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10526
+        },
+        "model" : "cobalt/block/cauldron_north-east_10526_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10600
+        },
+        "model" : "cobalt/block/cauldron_north-east_10600_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10601
+        },
+        "model" : "cobalt/block/cauldron_north-east_10601_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10602
+        },
+        "model" : "cobalt/block/cauldron_north-east_10602_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10603
+        },
+        "model" : "cobalt/block/cauldron_north-east_10603_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10604
+        },
+        "model" : "cobalt/block/cauldron_north-east_10604_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10605
+        },
+        "model" : "cobalt/block/cauldron_north-east_10605_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10606
+        },
+        "model" : "cobalt/block/cauldron_north-east_10606_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10607
+        },
+        "model" : "cobalt/block/cauldron_north-east_10607_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10611
+        },
+        "model" : "cobalt/block/cauldron_north-east_10611_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10613
+        },
+        "model" : "cobalt/block/cauldron_north-east_10613_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10614
+        },
+        "model" : "cobalt/block/cauldron_north-east_10614_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10616
+        },
+        "model" : "cobalt/block/cauldron_north-east_10616_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10617
+        },
+        "model" : "cobalt/block/cauldron_north-east_10617_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10621
+        },
+        "model" : "cobalt/block/cauldron_north-east_10621_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10623
+        },
+        "model" : "cobalt/block/cauldron_north-east_10623_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10626
+        },
+        "model" : "cobalt/block/cauldron_north-east_10626_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10700
+        },
+        "model" : "cobalt/block/cauldron_north-east_10700_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10701
+        },
+        "model" : "cobalt/block/cauldron_north-east_10701_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10702
+        },
+        "model" : "cobalt/block/cauldron_north-east_10702_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10703
+        },
+        "model" : "cobalt/block/cauldron_north-east_10703_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10704
+        },
+        "model" : "cobalt/block/cauldron_north-east_10704_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10705
+        },
+        "model" : "cobalt/block/cauldron_north-east_10705_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10706
+        },
+        "model" : "cobalt/block/cauldron_north-east_10706_output"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10707
+        },
+        "model" : "cobalt/block/cauldron_north-east_10707_output"
+      } ]
+}

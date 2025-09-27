@@ -19,3 +19,12 @@ execute if block ~ ~-2 ~ iron_block run data merge entity @e[type=marker,tag=mat
 
 execute if block ~ ~-2 ~ redstone_block run tag @e[type=marker,tag=material_pit,distance=..1] add redstone_block
 execute if block ~ ~-2 ~ redstone_block run data merge entity @e[type=marker,tag=material_pit,distance=..1,limit=1] {data:{name:"Material Pit: Redstone Block"}}
+
+execute if block ~ ~-2 ~ diamond_block run tag @e[type=marker,tag=material_pit,distance=..1] add diamond_block
+execute if block ~ ~-2 ~ diamond_block run data merge entity @e[type=marker,tag=material_pit,distance=..1,limit=1] {data:{name:"Material Pit: Diamond Block"}}
+
+execute if block ~ ~-2 ~ amethyst_block run tag @e[type=marker,tag=material_pit,distance=..1] add amethyst_block
+execute if block ~ ~-2 ~ amethyst_block run data merge entity @e[type=marker,tag=material_pit,distance=..1,limit=1] {data:{name:"Material Pit: Amethyst Block"}}
+
+execute if block ~ ~-2 ~ raw_gold_block run tag @e[type=marker,tag=material_pit,distance=..1] add raw_gold_block
+execute if block ~ ~-2 ~ raw_gold_block run data merge entity @e[type=marker,tag=material_pit,distance=..1,limit=1] {data:{name:"Material Pit: Raw Gold Block"}}

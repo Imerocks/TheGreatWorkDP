@@ -19,3 +19,7 @@ execute as @e[tag=dt_sacrifice_4] if score @s item_sacrifice matches 1 run score
 execute as @e[tag=dt_sacrifice_4] unless score @s item_sacrifice matches 1 run scoreboard players set sacrifice_4 desert_temple 0
 
 execute if score sacrifice_1 desert_temple matches 1 if score sacrifice_2 desert_temple matches 1 if score sacrifice_3 desert_temple matches 1 if score sacrifice_4 desert_temple matches 1 run scoreboard players set sacrifice_done desert_temple 1
+execute unless score sacrifice_1 desert_temple matches 1 run scoreboard players set sacrifice_done desert_temple 0
+execute unless score sacrifice_2 desert_temple matches 1 run scoreboard players set sacrifice_done desert_temple 0
+execute unless score sacrifice_3 desert_temple matches 1 run scoreboard players set sacrifice_done desert_temple 0
+execute unless score sacrifice_4 desert_temple matches 1 run scoreboard players set sacrifice_done desert_temple 0
