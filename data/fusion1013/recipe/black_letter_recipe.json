@@ -10,8 +10,13 @@
         "B": "minecraft:black_candle"
     },
     "result": {
-        "id": "thegreatwork:book/letter_black",
-        "count": 8
+        "id": "minecraft:writable_book",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "thegreatwork:book/letter_black",
+            "minecraft:item_name": "Black Letter"
+
+        }
     },
     "group": "letters"
 }

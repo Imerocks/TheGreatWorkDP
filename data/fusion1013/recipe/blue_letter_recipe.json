@@ -10,8 +10,12 @@
         "B": "minecraft:blue_candle"
     },
     "result": {
-        "id": "thegreatwork:book/letter_blue",
-        "count": 8
+        "id": "minecraft:writable_book",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "thegreatwork:book/letter_blue",
+            "minecraft:item_name": "Blue Letter"
+        }
     },
     "group": "letters"
 }
