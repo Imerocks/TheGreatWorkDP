@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "B": "minecraft:blue_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_blue",
+        "count": 8
+    },
+    "group": "letters"
+}

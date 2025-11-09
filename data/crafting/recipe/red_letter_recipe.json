@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#R#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "R": "minecraft:red_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_red",
+        "count": 8
+    },
+    "group": "letters"
+}

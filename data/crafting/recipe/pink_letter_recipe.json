@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "P": "minecraft:pink_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_pink",
+        "count": 8
+    },
+    "group": "letters"
+}

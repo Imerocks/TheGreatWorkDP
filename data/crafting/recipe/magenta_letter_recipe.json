@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#M#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "M": "minecraft:magenta_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_magenta",
+        "count": 8
+    },
+    "group": "letters"
+}

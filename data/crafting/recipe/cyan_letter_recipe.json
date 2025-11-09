@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "C": "minecraft:cyan_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_cyan",
+        "count": 8
+    },
+    "group": "letters"
+}

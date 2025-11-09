@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "C": "minecraft:candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter",
+        "count": 8
+    },
+    "group": "letters"
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#L#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "L": "minecraft:lime_candle"
+    },
+    "result": {
+        "id": "thegreatwork:book/letter_lime",
+        "count": 8
+    },
+    "group": "letters"
+}
